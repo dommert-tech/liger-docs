@@ -33,6 +33,8 @@ ___________________
 
 
 ### Templates
+All templates should impletement a 12 Grid system
+
 * One column
 * Two Column Left / Right
 * Three Column   Even (33/33/33) Offset (30/40/30)
@@ -54,3 +56,13 @@ ___________________
 * Input Fields
 * Tables
 * 
+
+
+
+### Viewport Sizes
+
+* XS - Small Cells
+* S  - Cell
+* M  - Tablet 720p
+* L  - PC 1080p
+* XL - 4k
